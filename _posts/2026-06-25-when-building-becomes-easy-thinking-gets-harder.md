@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "When Building Becomes Easy, Thinking Gets Harder"
+title: "When Building Becomes Easy, Thinking Gets Harder."
 date: 2026-06-25
 categories: ai-assisted-development agents engineering
 ---
